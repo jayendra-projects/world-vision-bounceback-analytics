@@ -1,6 +1,6 @@
 # World Vision Australia – BounceBack Campaign Decision Analytics
 
-> Decision analytics project examining donor behaviour, campaign timing, communication channels and giving patterns to support evidence-based fundraising decisions.
+Decision analytics project examining donor behaviour, campaign performance, communication channels and predictive patterns to support evidence-based fundraising decisions.
 
 ## Project Snapshot
 
