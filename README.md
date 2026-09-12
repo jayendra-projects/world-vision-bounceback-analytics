@@ -1,4 +1,4 @@
-# World Vision Australia – BounceBack Campaign Decision Analytics
+# World Vision Australia - BounceBack Campaign Decision Analytics
 
 Decision analytics project examining donor behaviour, campaign performance, communication channels and predictive patterns to support evidence-based fundraising decisions.
 
